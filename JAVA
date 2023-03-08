@@ -1,0 +1,67 @@
+public class Aleatorio{
+
+    
+}
+
+public class Carro{
+    //cor;
+    //qtdportas;
+    //marca;
+    //modelo;
+    //ano;
+    //km;
+    //observacoes;
+    //preco;
+}
+
+public class Clientes{
+    // nome;
+    // email;
+    // senha;
+}
+
+#Aleatorio.java
+=====================================
+public class App {
+    public static void main(String[] args) throws Exception {
+        int contagem = 0;
+        carro camaro = new Carro();
+        camaro.cor = "amarelo"
+    }
+}
+#App.java
+=======================================
+public class Carro{
+    String cor;
+    int QtdPortas ;
+    String marca; 
+    String modelo;
+    int ano;
+    int kilometragem;
+    String observacao;
+    double preco;
+}
+#Carro.java
+========================================
+public class Cliente {
+    String nome;
+    String email;
+    int senha;
+   
+}
+#Cliente.java
+=======================================
+public class Anunciante {
+    String nome;
+    String email;
+    int senha;
+}
+#Anunciante.java
+========================================
+
+
+
+
+
+
+
